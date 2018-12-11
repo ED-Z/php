@@ -1,6 +1,8 @@
 <html>
 <body>
-
+<head>
+<title>Fuzhou weather</title>
+</head>
 <?php
 echo "<h1> Fuzhou Weather Today! </h1>";
 $file=fopen("1.txt","w");
